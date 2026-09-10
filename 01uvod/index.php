@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo "AHoj moje meno Je Sebastian Sťrbjsn, mam 17 rokoov, mam rad kone a klaviri"
+    echo "AHoj moje meno Je Sebastian Sťrbjsn, mam 17 rokoov, mam rad kone a klaviri";
     ?>
 
     <div>
@@ -15,8 +15,11 @@
 </div>
     <?php
     echo "<p> tento je moj vypis pomocou print </p>";
-    ?>
+    
+    print("aj tot je daco neviem");
 
+    echo "dalsie echo";
+    ?>
 
 </body>
 </html>
