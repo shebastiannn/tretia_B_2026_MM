@@ -14,7 +14,7 @@
 
     <div>
         <p>ahoj skolko</p>
-</div>
+    </div>
     <?php
     echo "<p> tento je moj vypis pomocou print </p>";
     
@@ -22,6 +22,7 @@
 
     echo "dalsie echo";
     ?>
+
 
 </body>
 </html>
